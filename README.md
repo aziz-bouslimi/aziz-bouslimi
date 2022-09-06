@@ -2,29 +2,59 @@
   Welcome to Bouslimi Aziz profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>   
-
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=SENIOR%20TECHNICIAN;%20EMBDDED-SYSTEM%20DEVELOPER%20;3%2B%20years%20of%20coding%20experience;%20%20mobile%20application%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=SENIOR%20TECHNICIAN;%20EMBDDED-SYSTEM%20DEVELOPPER%20;3%2B%20years%20of%20coding%20experience;%20%20MOBILE%20APPLICATION%20DEVELOPPER;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=221dab&vCenter=true&size=22&pause=10"></a>
+  
+  
+  
+  
+  📍I am Aziz from Tunisia, and I do embedded development.
+I enjoy learning new technologies and exploring tech.
+
+
+<p align="center">
+ 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/aziz-bouslimi/">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Email" href="mailto:azizbouslimi10@gmail.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Stackoverflow" href="https://Azizbouslimi.com/users/11899809/aziz">
+    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Twitter" href="https://twitter.com/BouslimiAziz">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-512.png" width="50" height="50" />
+  </a>
 </p>
-<h2 align="left">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/aziz-bouslimi" target="_blank">
+    <img src="https://img.shields.io/github/followers/shravan20?label=Aziz%20Bouslimi&style=social"/>
+  </a>
+
+
+  <a href="https://twitter.com/BouslimiAziz" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/AzizBouslimi?style=social"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aziz-bouslimi/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/aziz-bouslimi"/>
+  </a>
+<br>
+<!-- Tech Stack -->
+<!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
 
 <!--## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&center=true&width=800&lines=FrontEnd+Developer+;Python+Enthusiast;Learning+Cloud;Photographer)](https://git.io/typing-svg)
 -->
 
 <!-- BANNER -->
 <img  src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/lofi_code.gif" />
-
-<!-- Activity Stats -->
-
-<!-- <p align="right">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sumanshekhar698/count.svg" />
-</p> -->
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sumanshekhar698&label=Profile%20views&color=0e75b6&style=flat" alt="sumanshekhar" /> </p>
 
 <!-- <p align="right">
    <img src="https://badges.pufler.dev/visits/sumanshekhar698/sumanshekhar698"/>
@@ -33,33 +63,11 @@
   <img src="https://badges.pufler.dev/commits/monthly/sumanshekhar698" />
 </p> -->
 
-</br></br></br></br>
-
-<!-- <img src="https://octodex.github.com/images/luchadortocat.png" width="300" align="right"> -->
-<img src="https://octodex.github.com/images/murakamicat.png" width="300" align="right">
-
-📍I am Suman from India, and I do backend development.
-I enjoy learning new technologies and exploring tech.
-Some of the toys which I play with are Spring framework and Dropwizard.
-
-- 🔭 I’m working on Building web apps using Java tech stack.
-- 🌱 I’m currently learning Java and exploring the Spring framework family.
-- 📫 Reach me @ https://www.sumanshekhar.com/
-- ⚡ Fun fact: I love ice cream while coding to make the code look cool🧊 😸
-
-<!-- Tech Stack -->
-<!-- <h2 align="center">Tech Stack <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/laptop.gif" width="50"></h2> -->
 
 <!-- <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
@@ -71,7 +79,7 @@ Some of the toys which I play with are Spring framework and Dropwizard.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,idea,eclipse,vscode,vim,redis,mongodb,mysql,html,css,js,bootstrap,sqlite,py,docker,netlify,git,gitlab,stackoverflow,nginx,jenkins&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=java,vscode,mysql,git,gitlab,stackoverflow&perline=12" /></a>
   </p>
 
   <!-- :zap:  -->
@@ -176,22 +184,6 @@ These are some of the technologies and tools that I work with:
 
 <p align="center">
   <img src="assets/header.png" alt="header"/>
-</p>
-
-  <!-- SOCIAL LINKS -->
-
-<i><h3 align="right">Connect with me</h3></i>
-
-<p align="right">
-  <a href="https://linkedin.com/in/sumanshekhar698">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/19126942/suman-shekhar">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/suman_shekhar_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  </a>
 </p>
 
 <!-- GitHub Contribution Graph -->
