@@ -96,6 +96,80 @@ Some of the toys which I play with are Spring framework and Dropwizard.
  <a href = "https://twitter.com/suman_shekhar_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="30px"/></a>
 </p> -->
 
+#### ⚡ Technologies
+
+These are some of the technologies and tools that I work with:
+
+<table style="width:100%">
+ <tr>
+    <th>Programming Languages</th>
+    <td>      
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" />
+      <img src="https://img.shields.io/badge/-C++-787CB5?style=flat-square&logo=c%2B%2B&logoColor=Crayola" />
+      <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />      
+   </td>
+  </tr>
+  <tr>
+    <th>Frameworks</th>
+    <td>
+      <img src="https://img.shields.io/badge/-React.js-black?style=flat-square&logo=react&logoColor=Crayola" />
+    </td>
+  </tr>
+  <tr>
+    <th>Databases</th>
+    <td>
+      <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Hosting/SaaS/PaaS</th>
+    <td>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat-square&logo=heroku&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Automate, Deploy, Platform & Tools</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" /> 
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+    </td>
+  </tr>
+  <tr>
+    <th>Testing</th>
+    <td>
+      <img src="https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white" />
+      <img src="https://img.shields.io/badge/Junit5-25A162.svg?&style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/mac%20os-000000.svg?&style=flat-square&logo=apple&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Markup/Markdown</th>
+    <td>
+      <img src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <th>Others</th>
+    <td>
+      <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+    </td>
+  </tr>
+  
+</table>
+
+
+<p align="center">
+  <img src="assets/header.png" alt="header"/>
+</p>
+
   <!-- SOCIAL LINKS -->
 
 <i><h3 align="right">Connect with me</h3></i>
