@@ -181,10 +181,9 @@ These are some of the technologies and tools that I work with:
   
 </table>
 
+![header](https://user-images.githubusercontent.com/93054393/188715540-938a80ca-24fa-40d5-b675-8e0bd8627e7e.png)
 
-<p align="center">
-  <img src="assets/header.png" alt="header"/>
-</p>
+
 
 <!-- GitHub Contribution Graph -->
 <table>
@@ -200,10 +199,10 @@ These are some of the technologies and tools that I work with:
 <table>
   <tr>
    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=sumanshekhar698&show_icons=true&theme=merko&hide_border=true" />
+     <img src="https://github-readme-stats.vercel.app/api?username=AZIZ&show_icons=true&theme=merko&hide_border=true" />
    </td>
    <td>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanshekhar698&theme=merko&hide_border=true" />    
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aziz-Bouslimi&theme=merko&hide_border=true" />    
    </td>
  </tr>
 </table>
@@ -216,7 +215,7 @@ These are some of the technologies and tools that I work with:
 
 ![snake gif](https://github.com/sumanshekhar698/sumanshekhar698/blob/output/github-contribution-grid-snake.svg)
 
-<!--   <img src="https://github.com/sumanshekhar698/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
+<!--   <img src="https://github.com/aziz-bouslimi/sumanshekhar698/blob/main/assets/snake.gif" width="50"></h2> -->
 
 <!--
 # My GitHub contributions as a Game of Life
