@@ -183,14 +183,14 @@ These are some of the technologies and tools that I work with:
 
 ![header](https://user-images.githubusercontent.com/93054393/188715540-938a80ca-24fa-40d5-b675-8e0bd8627e7e.png)
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aziz-Bouslimi&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&border=3ADD4B)](https://git.io/streak-stats)
 
 <!-- GitHub Contribution Graph -->
 <table>
   <tr>
     <td>
-      <img alt="Suman's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
-<!--       <img src="https://activity-graph.herokuapp.com/graph?username=sumanshekhar698&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
+      <img alt="Bouslimi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aziz-bouslimi&bg_color=0D1117&color=5BCDEC&line=89bd0f&point=FFFFFF&hide_border=true" />
+<!--       <img src="https://activity-graph.herokuapp.com/graph?username=Aziz-bouslimi&theme=github&hide_border=true&bg_color=0D1117area_color=89bd0f&line=89bd0f&point=fff000&color=89bd0f&hide_border=true"> -->
     </td>
   </tr>
 </table>
